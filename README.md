@@ -31,8 +31,8 @@ print_r($resp);
 
 ## Contributors
 
-[Your contributions are always welcome!](https://github.com/openset/http/graphs/contributors)
+[Your contributions are always welcome!](https://github.com/openset/woaap/graphs/contributors)
 
 ## LICENSE
 
-Released under [MIT](https://github.com/openset/http/blob/master/LICENSE) LICENSE
+Released under [MIT](https://github.com/openset/woaap/blob/master/LICENSE) LICENSE
